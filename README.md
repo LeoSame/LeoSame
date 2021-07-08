@@ -12,18 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been serving in the Armed Forces of Ukraine for 9 years
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="text-align: center;">
-  <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/js_logo.jpg?raw=true">
-  <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/react_logo.png?raw=true">
-  <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/node_logo.png?raw=true">
-  <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/html_css_logo.png?raw=true">
-  <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/sass_logo.jpg?raw=true">
-  <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/mongodb_logo.png?raw=true">
-  <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/postman_logo.png?raw=true">
-</div>
+<img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/js_logo.jpg?raw=true">
+<img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/react_logo.png?raw=true">
+<img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/node_logo.png?raw=true">
+<img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/html_css_logo.png?raw=true">
+<img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/sass_logo.jpg?raw=true">
+<img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/mongodb_logo.png?raw=true">
+<img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/postman_logo.png?raw=true">
