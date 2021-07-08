@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a href="https://github.com/LeoSame/fe-20_final_project">Smart-Electronix store</a>.
+- 🔭 I’m currently working on [Smart-Electronix store](https://github.com/LeoSame/fe-20_final_project)
 - 🌱 I’m currently learning Javascript, React.js, TypeScript.
 - 👯 I’m looking to collaborate on learn React.js and Node.js.
 - 🤔 I'm looking for help to improve my knowledge of React.js.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 [![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
 <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/js_logo.jpg?raw=true">
 <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/react_logo.png?raw=true">
 <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/node_logo.png?raw=true">
@@ -21,3 +22,4 @@ Here are some ideas to get you started:
 <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/sass_logo.jpg?raw=true">
 <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/mongodb_logo.png?raw=true">
 <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/postman_logo.png?raw=true">
+</div>
