@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been serving in the Armed Forces of Ukraine for 9 years
 
-![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
 
-![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
 
 [Smart-Electronix store](https://img.icons8.com/color/452/graphql.png)
