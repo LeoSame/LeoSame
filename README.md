@@ -2,20 +2,17 @@
 
 ### Hi there 👋
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on [Smart-Electronix store](https://github.com/LeoSame/fe-20_final_project).
+- 🌱 I’m currently learning Javascript, React.js, TypeScript.
+- 👯 I’m looking to collaborate on learn React.js and Node.js.
+- 🤔 I'm looking for help to improve my knowledge of React.js.
+- 📫 How to reach me: leo.sam@ukr.net.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have been serving in the Armed Forces of Ukraine for 9 years
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**LeoSame/LeoSame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Smart-Electronix store](https://img.icons8.com/color/452/graphql.png)
