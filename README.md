@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been serving in the Armed Forces of Ukraine for 9 years
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame">
+[![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/js_logo.jpg?raw=true">
 <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/react_logo.png?raw=true">
