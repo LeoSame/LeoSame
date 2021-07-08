@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on learn React.js and Node.js.
 - 🤔 I'm looking for help to improve my knowledge of React.js.
 - 📫 How to reach me: [email](mailto:leo.sam@ukr.net) .
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have been serving in the Armed Forces of Ukraine for 9 years
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I have been serving in the Armed Forces of Ukraine for 9 years.
 
 <div>
 <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/js_logo.jpg?raw=true">
