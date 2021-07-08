@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I have been serving in the Armed Forces of Ukraine for 9 years
   </div>
   <div style="width: 50%">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame"><img src="https://github-readme-stats.vercel.app/api?username=LeoSame"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame"></a>
 
   </div>
 
