@@ -2,9 +2,7 @@
 
 ### Hi there 👋
 
-<div style="display: flex">
-  <div style="width: 50%">
-  Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a href="https://github.com/LeoSame/fe-20_final_project">Smart-Electronix store</a>.
 - 🌱 I’m currently learning Javascript, React.js, TypeScript.
@@ -13,13 +11,8 @@
 - 📫 How to reach me: leo.sam@ukr.net.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been serving in the Armed Forces of Ukraine for 9 years
-  </div>
-  <div style="width: 50%">
+
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame"></a>
-
-  </div>
-
-</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
 
