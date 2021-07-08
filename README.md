@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript, React.js, TypeScript.
 - 👯 I’m looking to collaborate on learn React.js and Node.js.
 - 🤔 I'm looking for help to improve my knowledge of React.js.
-- 📫 How to reach me: leo.sam@ukr.net.
+- 📫 How to reach me: [email](mailto:leo.sam@ukr.net) .
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been serving in the Armed Forces of Ukraine for 9 years
 
