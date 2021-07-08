@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSame)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex; align-items: center; justify-content: center">
+<div style="text-align: center;">
   <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/js_logo.jpg?raw=true">
   <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/react_logo.png?raw=true">
   <img height="40 "src="https://github.com/LeoSame/LeoSame/blob/main/img/logo/node_logo.png?raw=true">
