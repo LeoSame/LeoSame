@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Smart-Electronix store](https://github.com/LeoSame/fe-20_final_project)
+- 🔭 I’m currently working on [Cloud Storage MERN](https://github.com/lsemeniuk/CloudStorage_MERN)
 - 🌱 I’m currently learning Javascript, React.js, TypeScript.
 - 👯 I’m looking to collaborate on learn React.js and Node.js.
 - 🤔 I'm looking for help to improve my knowledge of React.js.
